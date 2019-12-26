@@ -1,5 +1,9 @@
 import java.util.Objects;
 
+/**
+ * @author tilsimgeldisencakiroglu
+ * This class is for Question 3
+ */
 public class ElementCountDto {
     private final String element;
     private final int count;
